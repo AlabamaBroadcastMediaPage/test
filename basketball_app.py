@@ -1,3 +1,7 @@
+//ha cmdben írod
+//cd parancsal keresd meg a mappát
+// aztán streamlit run filenév
+//ha xml not find hibát kapsz akkor pip install lxml
 import streamlit as st
 import pandas as pd
 import base64
